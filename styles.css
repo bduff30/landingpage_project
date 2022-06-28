@@ -59,3 +59,91 @@ span:hover {
   padding-top: 60px;
   padding-left: 200px;
 }
+
+.s2h2 {
+  font-weight: bold;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.ballImg,
+.gloveImg,
+.batImg,
+.fieldImg {
+  width: 200px;
+  height: 200px;
+  border: rgb(28, 126, 255) solid 3px;
+  border-radius: 10px;
+}
+
+.squares {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding-top: 40px;
+}
+
+.squaresText {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.p1Ball {
+  padding-left: 240px;
+}
+
+.p1Glove {
+  padding-right: px;
+}
+
+.p1Bat {
+  padding-right: 0px;
+}
+
+.p1Field {
+  padding-right: 240px;
+}
+
+.section3 {
+  background-color: #e5e7eb;
+}
+
+.s3quote {
+  text-align: center;
+  padding-top: 80px;
+  font-size: 30px;
+  font-style: italic;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.s3author {
+  text-align: center;
+  padding-bottom: 80px;
+  padding-left: 400px;
+  font-size: 20px;
+}
+
+.s4container {
+  background-color: #3882f6;
+  color: white;
+  border-radius: 6px;
+  width: 50%;
+  margin-left: 480px;
+  margin-top: 60px;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.s4btn {
+  background-color: #3882f6;
+  border: white solid 2px;
+  border-radius: 5px;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 40px;
+  margin-right: 20px;
+}
