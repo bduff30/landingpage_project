@@ -147,3 +147,11 @@ span:hover {
   margin-top: 40px;
   margin-right: 20px;
 }
+
+.footer {
+  background-color: #1f2937;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+}
