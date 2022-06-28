@@ -1,2 +1,3 @@
 # landingpage_project
-2nd project following along The Odin Project
+
+Second project following along The Odin Project
