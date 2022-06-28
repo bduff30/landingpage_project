@@ -1,3 +1,61 @@
-body {
-  background-color: gray;
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.section1 {
+  background-color: #1f2937;
+  color: white;
+}
+
+.header {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.links {
+  margin: 20px;
+}
+
+.link2 {
+  padding-left: 60px;
+}
+
+span:hover {
+  cursor: pointer;
+}
+
+.left {
+  width: 400px;
+  margin-left: 400px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.description {
+  color: gray;
+}
+
+.signupBtn {
+  background-color: rgb(56, 137, 243);
+  color: white;
+  border-radius: 10px;
+  border: none;
+  padding: 6px;
+}
+
+.mainImg {
+  width: 400px;
+  height: 250px;
+  border-radius: 20px;
+}
+
+.container {
+  display: flex;
+}
+
+.right {
+  padding-top: 60px;
+  padding-left: 200px;
 }
